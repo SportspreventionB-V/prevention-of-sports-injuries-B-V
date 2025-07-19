@@ -1,4 +1,4 @@
-  <title>Programa de Prevención de Lesiones - Jaguares UTPL</title>
+<title>Programa de Prevención de Lesiones - Jaguares UTPL</title>
 </head>
 <body>
   <h1>Programa de Prevención de Lesiones Deportivas</h1>
