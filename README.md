@@ -1,6 +1,3 @@
-<html>
-<head>
-  <meta charset="UTF-8">
   <title>Programa de Prevención de Lesiones - Jaguares UTPL</title>
 </head>
 <body>
